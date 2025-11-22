@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "changelog": "Initial release of the calculator.",
-  "downloadUrl": "https://example.com/Calculator-1.0.0.exe"
+  "version": "1.1.0",
+  "changelog": "Tes update: menambahkan fitur baru.",
+  "downloadUrl": "https://example.com/Calculator-1.1.0.exe"
 }
